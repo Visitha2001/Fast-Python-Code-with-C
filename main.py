@@ -32,4 +32,4 @@ if __name__ == "__main__":
     for thread in threads:
         thread.join()
     end = time.perf_counter()
-    print(f"Time taken: {end - start}")
+    print(f"Time taken for calculation: {end - start}")
