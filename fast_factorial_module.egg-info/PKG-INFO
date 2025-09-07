@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: fast_factorial_module
+Version: 0.1
+Summary: Fast factorial calculation using C
+Dynamic: summary
