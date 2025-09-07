@@ -1,6 +1,0 @@
-fast_factorial.c
-setup.py
-fast_factorial_module.egg-info/PKG-INFO
-fast_factorial_module.egg-info/SOURCES.txt
-fast_factorial_module.egg-info/dependency_links.txt
-fast_factorial_module.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+fast_factorial_repetition.c
+setup.py
+fast_factorial_repetition.egg-info/PKG-INFO
+fast_factorial_repetition.egg-info/SOURCES.txt
+fast_factorial_repetition.egg-info/dependency_links.txt
+fast_factorial_repetition.egg-info/top_level.txt
